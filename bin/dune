@@ -1,0 +1,4 @@
+(executable
+ (name main)
+ (public_name sante)
+ (libraries dream yojson lwt caqti caqti-lwt caqti-driver-postgresql))
